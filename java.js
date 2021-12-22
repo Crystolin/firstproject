@@ -1,0 +1,1 @@
+alert("😷 covid cases are rising stay safe 😷");
